@@ -1,6 +1,6 @@
 /* Add a colorful background to the whole page */
 body {
-  background: linear-gradient(45deg, #3498db, #2980b9);
+  background: linear-gradient(45deg, #64d1f1, #06a0c7);
 }
 
 .main {
@@ -25,7 +25,7 @@ body {
   border: none;
   background: linear-gradient(
     90deg,
-    #3498db,
+    #aad307,
     #2980b9
   ); /* Gradient background */
   color: #fff; /* Text color */
@@ -71,4 +71,8 @@ i.icon:hover {
   /* padding: 1rem 0; */
   /* background-color: #f1f1f1; */
   /* width: 100%; */
+}
+
+.custom-link {
+  color: black;
 }
